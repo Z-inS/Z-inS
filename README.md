@@ -1,4 +1,5 @@
-### Hi there 👋
+ Long before time had a name, the First Spinjitzu Master created Ninjago using four elemental weapons. But when he passed, a dark presence sought out to collect them all: Bold MusaYasin!!
+
 
 <!--
 **Z-inS/Z-inS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
